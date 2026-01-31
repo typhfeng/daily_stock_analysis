@@ -5,6 +5,16 @@
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，
 版本号遵循 [Semantic Versioning](https://semver.org/lang/zh-CN/)。
 
+## [Unreleased] - 2026-01-31
+
+### Added
+- 📄 **本地/Fork 相关文档与脚本**
+  - `API_KEY_SETUP.md`：API 密钥配置说明
+  - `DATA_SOURCES.md`：数据源说明文档
+  - `fork_manual.md`：Fork 仓库到 typhfeng 账户的手册
+  - `fork_to_typhfeng.sh`：一键 Fork 脚本（GitHub CLI）
+  - `.cursor/commands/`：Cursor 命令（sync 本地到 fork、创建 fork 仓库等）
+
 ## [2.1.6] - 2026-01-29
 
 ### Added
